@@ -19,6 +19,7 @@
 悪徳ファームに関して
 https://au-ryugaku.com/column/rogue-farms/
 
-スクリーンショット 2025-07-17 午後6.46.45.png
 
-スクリーンショット 2025-07-17 午後6.46.55
+<img width="1694" height="1208" alt="image" src="https://github.com/user-attachments/assets/d950ff4c-5e6d-43ab-8754-82d5653fec38" />
+
+![Uploading image.png…]()
