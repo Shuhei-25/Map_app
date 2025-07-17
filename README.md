@@ -22,4 +22,5 @@ https://au-ryugaku.com/column/rogue-farms/
 
 <img width="1694" height="1208" alt="image" src="https://github.com/user-attachments/assets/d950ff4c-5e6d-43ab-8754-82d5653fec38" />
 
-![Uploading image.png…]()
+<img width="1684" height="1198" alt="image" src="https://github.com/user-attachments/assets/7281528b-08df-4284-85e9-ce4da7a9f22d" />
+
